@@ -11,6 +11,7 @@
     <None Include="..\..\Source\Destiny2Editor.Target.cs">
       <Filter>Source</Filter>
     </None>
+    <None Include="..\..\.vsconfig" />
     <Filter Include="Config">
       <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
     </Filter>
@@ -70,6 +71,48 @@
     </ClCompile>
     <ClCompile Include="..\..\Source\Destiny2\Destiny2WeaponComponent.h">
       <Filter>Source\Destiny2</Filter>
+    </ClCompile>
+    <Filter Include="Source\Destiny2\Private">
+      <UniqueIdentifier>{0A261275-B0D3-37FB-98F3-6BCA3B8ADF44}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Destiny2\Private\BossEnemy.cpp">
+      <Filter>Source\Destiny2\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Destiny2\Private\EnemyAIController.cpp">
+      <Filter>Source\Destiny2\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Destiny2\Private\EnemyBase.cpp">
+      <Filter>Source\Destiny2\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Destiny2\Private\EnemySpawner.cpp">
+      <Filter>Source\Destiny2\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Destiny2\Private\MeleeEnemy.cpp">
+      <Filter>Source\Destiny2\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Destiny2\Private\RangedEnemy.cpp">
+      <Filter>Source\Destiny2\Private</Filter>
+    </ClCompile>
+    <Filter Include="Source\Destiny2\Public">
+      <UniqueIdentifier>{B2A7C4B1-3082-3720-AA88-2CCCD1228341}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Destiny2\Public\BossEnemy.h">
+      <Filter>Source\Destiny2\Public</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Destiny2\Public\EnemyAIController.h">
+      <Filter>Source\Destiny2\Public</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Destiny2\Public\EnemyBase.h">
+      <Filter>Source\Destiny2\Public</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Destiny2\Public\EnemySpawner.h">
+      <Filter>Source\Destiny2\Public</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Destiny2\Public\MeleeEnemy.h">
+      <Filter>Source\Destiny2\Public</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Destiny2\Public\RangedEnemy.h">
+      <Filter>Source\Destiny2\Public</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

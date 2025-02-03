@@ -5,7 +5,14 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Destiny2/Destiny2/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
+				"C:/Destiny2/Destiny2/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Destiny2/Destiny2/Content/ODH/Blueprint/BP_EnemyAI.uasset",
+				"C:/Destiny2/Destiny2/Content/ODH/Blueprint/BP_MeleeEnemy.uasset",
+				"C:/Destiny2/Destiny2/Content/ODH/Map/ODHTest.umap",
+				"C:/Destiny2/Destiny2/Content/ODH/Blueprint/BP_ODHFirstPerson.uasset",
+				"C:/Destiny2/Destiny2/Content/FirstPerson/Blueprints/BP_FirstPersonGameMode.uasset",
+				"C:/Destiny2/Destiny2/Content/ODH/Blueprint/BP_EnemySpawner.uasset",
+				"C:/Destiny2/Destiny2/Content/ODH/Blueprint/BP_FirstPersonCharacter.uasset"
 			]
 		}
 	]

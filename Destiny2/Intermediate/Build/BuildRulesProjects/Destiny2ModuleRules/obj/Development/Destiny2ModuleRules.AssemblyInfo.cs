@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Destiny2ModuleRules")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Development")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+438f115f7b1eca3c3e7ef2f6a302bc604021cd5b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0bae7d4835ce5623bb66fa21971571c0f5229f22")]
 [assembly: System.Reflection.AssemblyProductAttribute("Destiny2ModuleRules")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Destiny2ModuleRules")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
