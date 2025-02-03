@@ -5,6 +5,26 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Unreal/Destiny2222222/Destiny2/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Unreal/Destiny2222222/Destiny2/Content/FirstPerson/Blueprints/BP_PickUp_Rifle.uasset",
+				"C:/Unreal/Destiny2222222/Destiny2/Content/LJY/Input/Actions/IA_Jump.uasset",
+				"C:/Unreal/Destiny2222222/Destiny2/Content/LJY/Input/Actions/IA_Look.uasset",
+				"C:/Unreal/Destiny2222222/Destiny2/Content/LJY/Input/Actions/IA_Move.uasset",
+				"C:/Unreal/Destiny2222222/Destiny2/Content/LJY/Input/IMC_Default.uasset",
+				"C:/Unreal/Destiny2222222/Destiny2/Content/LJY/Input/Actions/IA_Shoot.uasset",
+				"C:/Unreal/Destiny2222222/Destiny2/Content/LJY/Input/IMC_Weapons.uasset",
+				"C:/Unreal/Destiny2222222/Destiny2/Content/LJY/Input/MobileControls.uasset",
+				"C:/Unreal/Destiny2222222/Destiny2/Content/FirstPerson/Input/MobileControls.uasset",
+				"C:/Unreal/Destiny2222222/Destiny2/Content/FirstPerson/Input/IMC_Weapons.uasset",
+				"C:/Unreal/Destiny2222222/Destiny2/Content/FirstPerson/Input/Actions/IA_Shoot.uasset",
+				"C:/Unreal/Destiny2222222/Destiny2/Content/FirstPerson/Input/IMC_Default.uasset",
+				"C:/Unreal/Destiny2222222/Destiny2/Content/FirstPerson/Input/Actions/IA_Move.uasset",
+				"C:/Unreal/Destiny2222222/Destiny2/Content/FirstPerson/Input/Actions/IA_Look.uasset",
+				"C:/Unreal/Destiny2222222/Destiny2/Content/FirstPerson/Input/Actions/IA_Jump.uasset",
+				"C:/Unreal/Destiny2222222/Destiny2/Content/LJY/Input/Actions/IA_Sprint.uasset",
+				"C:/Program Files/Epic Games/UE_5.5/Engine/Content/OpenWorldTemplate/LandscapeMaterial/M_ProcGrid.uasset",
+				"C:/Program Files/Epic Games/UE_5.5/Engine/Content/OpenWorldTemplate/LandscapeMaterial/MI_ProcGrid.uasset",
+				"C:/Unreal/Destiny2222222/Destiny2/Content/FirstPersonArms/Character/Mesh/SK_Mannequin_Arms.uasset",
 				"C:/Destiny2/Destiny2/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
 			]
 		}
