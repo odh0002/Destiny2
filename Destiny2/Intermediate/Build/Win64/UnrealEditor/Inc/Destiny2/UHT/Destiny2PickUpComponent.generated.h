@@ -18,15 +18,15 @@ struct FHitResult;
 #endif
 #define DESTINY2_Destiny2PickUpComponent_generated_h
 
-#define FID_Destiny2_Destiny2_Source_Destiny2_Destiny2PickUpComponent_h_12_DELEGATE \
+#define FID_Unreal_Destiny2222222_Destiny2_Source_Destiny2_Destiny2PickUpComponent_h_12_DELEGATE \
 DESTINY2_API void FOnPickUp_DelegateWrapper(const FMulticastScriptDelegate& OnPickUp, ADestiny2Character* PickUpCharacter);
 
 
-#define FID_Destiny2_Destiny2_Source_Destiny2_Destiny2PickUpComponent_h_17_RPC_WRAPPERS_NO_PURE_DECLS \
+#define FID_Unreal_Destiny2222222_Destiny2_Source_Destiny2_Destiny2PickUpComponent_h_17_RPC_WRAPPERS_NO_PURE_DECLS \
 	DECLARE_FUNCTION(execOnSphereBeginOverlap);
 
 
-#define FID_Destiny2_Destiny2_Source_Destiny2_Destiny2PickUpComponent_h_17_INCLASS_NO_PURE_DECLS \
+#define FID_Unreal_Destiny2222222_Destiny2_Source_Destiny2_Destiny2PickUpComponent_h_17_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesUDestiny2PickUpComponent(); \
 	friend struct Z_Construct_UClass_UDestiny2PickUpComponent_Statics; \
@@ -35,7 +35,7 @@ public: \
 	DECLARE_SERIALIZER(UDestiny2PickUpComponent)
 
 
-#define FID_Destiny2_Destiny2_Source_Destiny2_Destiny2PickUpComponent_h_17_ENHANCED_CONSTRUCTORS \
+#define FID_Unreal_Destiny2222222_Destiny2_Source_Destiny2_Destiny2PickUpComponent_h_17_ENHANCED_CONSTRUCTORS \
 private: \
 	/** Private move- and copy-constructors, should never be used */ \
 	UDestiny2PickUpComponent(UDestiny2PickUpComponent&&); \
@@ -47,13 +47,13 @@ public: \
 	NO_API virtual ~UDestiny2PickUpComponent();
 
 
-#define FID_Destiny2_Destiny2_Source_Destiny2_Destiny2PickUpComponent_h_14_PROLOG
-#define FID_Destiny2_Destiny2_Source_Destiny2_Destiny2PickUpComponent_h_17_GENERATED_BODY \
+#define FID_Unreal_Destiny2222222_Destiny2_Source_Destiny2_Destiny2PickUpComponent_h_14_PROLOG
+#define FID_Unreal_Destiny2222222_Destiny2_Source_Destiny2_Destiny2PickUpComponent_h_17_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FID_Destiny2_Destiny2_Source_Destiny2_Destiny2PickUpComponent_h_17_RPC_WRAPPERS_NO_PURE_DECLS \
-	FID_Destiny2_Destiny2_Source_Destiny2_Destiny2PickUpComponent_h_17_INCLASS_NO_PURE_DECLS \
-	FID_Destiny2_Destiny2_Source_Destiny2_Destiny2PickUpComponent_h_17_ENHANCED_CONSTRUCTORS \
+	FID_Unreal_Destiny2222222_Destiny2_Source_Destiny2_Destiny2PickUpComponent_h_17_RPC_WRAPPERS_NO_PURE_DECLS \
+	FID_Unreal_Destiny2222222_Destiny2_Source_Destiny2_Destiny2PickUpComponent_h_17_INCLASS_NO_PURE_DECLS \
+	FID_Unreal_Destiny2222222_Destiny2_Source_Destiny2_Destiny2PickUpComponent_h_17_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
@@ -61,7 +61,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 template<> DESTINY2_API UClass* StaticClass<class UDestiny2PickUpComponent>();
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID FID_Destiny2_Destiny2_Source_Destiny2_Destiny2PickUpComponent_h
+#define CURRENT_FILE_ID FID_Unreal_Destiny2222222_Destiny2_Source_Destiny2_Destiny2PickUpComponent_h
 
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

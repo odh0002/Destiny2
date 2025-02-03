@@ -332,14 +332,14 @@ UDestiny2WeaponComponent::~UDestiny2WeaponComponent() {}
 // End Class UDestiny2WeaponComponent
 
 // Begin Registration
-struct Z_CompiledInDeferFile_FID_Destiny2_Destiny2_Source_Destiny2_Destiny2WeaponComponent_h_Statics
+struct Z_CompiledInDeferFile_FID_Unreal_Destiny2222222_Destiny2_Source_Destiny2_Destiny2WeaponComponent_h_Statics
 {
 	static constexpr FClassRegisterCompiledInInfo ClassInfo[] = {
 		{ Z_Construct_UClass_UDestiny2WeaponComponent, UDestiny2WeaponComponent::StaticClass, TEXT("UDestiny2WeaponComponent"), &Z_Registration_Info_UClass_UDestiny2WeaponComponent, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(UDestiny2WeaponComponent), 3496908425U) },
 	};
 };
-static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Destiny2_Destiny2_Source_Destiny2_Destiny2WeaponComponent_h_162527160(TEXT("/Script/Destiny2"),
-	Z_CompiledInDeferFile_FID_Destiny2_Destiny2_Source_Destiny2_Destiny2WeaponComponent_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Destiny2_Destiny2_Source_Destiny2_Destiny2WeaponComponent_h_Statics::ClassInfo),
+static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Unreal_Destiny2222222_Destiny2_Source_Destiny2_Destiny2WeaponComponent_h_162527160(TEXT("/Script/Destiny2"),
+	Z_CompiledInDeferFile_FID_Unreal_Destiny2222222_Destiny2_Source_Destiny2_Destiny2WeaponComponent_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Unreal_Destiny2222222_Destiny2_Source_Destiny2_Destiny2WeaponComponent_h_Statics::ClassInfo),
 	nullptr, 0,
 	nullptr, 0);
 // End Registration

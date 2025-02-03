@@ -78,14 +78,14 @@ ADestiny2GameMode::~ADestiny2GameMode() {}
 // End Class ADestiny2GameMode
 
 // Begin Registration
-struct Z_CompiledInDeferFile_FID_Destiny2_Destiny2_Source_Destiny2_Destiny2GameMode_h_Statics
+struct Z_CompiledInDeferFile_FID_Unreal_Destiny2222222_Destiny2_Source_Destiny2_Destiny2GameMode_h_Statics
 {
 	static constexpr FClassRegisterCompiledInInfo ClassInfo[] = {
 		{ Z_Construct_UClass_ADestiny2GameMode, ADestiny2GameMode::StaticClass, TEXT("ADestiny2GameMode"), &Z_Registration_Info_UClass_ADestiny2GameMode, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(ADestiny2GameMode), 3201657799U) },
 	};
 };
-static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Destiny2_Destiny2_Source_Destiny2_Destiny2GameMode_h_3563427934(TEXT("/Script/Destiny2"),
-	Z_CompiledInDeferFile_FID_Destiny2_Destiny2_Source_Destiny2_Destiny2GameMode_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Destiny2_Destiny2_Source_Destiny2_Destiny2GameMode_h_Statics::ClassInfo),
+static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Unreal_Destiny2222222_Destiny2_Source_Destiny2_Destiny2GameMode_h_3563427934(TEXT("/Script/Destiny2"),
+	Z_CompiledInDeferFile_FID_Unreal_Destiny2222222_Destiny2_Source_Destiny2_Destiny2GameMode_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Unreal_Destiny2222222_Destiny2_Source_Destiny2_Destiny2GameMode_h_Statics::ClassInfo),
 	nullptr, 0,
 	nullptr, 0);
 // End Registration

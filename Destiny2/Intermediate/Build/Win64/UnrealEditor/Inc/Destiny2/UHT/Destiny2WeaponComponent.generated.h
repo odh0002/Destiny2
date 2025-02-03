@@ -15,13 +15,13 @@ class ADestiny2Character;
 #endif
 #define DESTINY2_Destiny2WeaponComponent_generated_h
 
-#define FID_Destiny2_Destiny2_Source_Destiny2_Destiny2WeaponComponent_h_14_RPC_WRAPPERS_NO_PURE_DECLS \
+#define FID_Unreal_Destiny2222222_Destiny2_Source_Destiny2_Destiny2WeaponComponent_h_14_RPC_WRAPPERS_NO_PURE_DECLS \
 	DECLARE_FUNCTION(execEndPlay); \
 	DECLARE_FUNCTION(execFire); \
 	DECLARE_FUNCTION(execAttachWeapon);
 
 
-#define FID_Destiny2_Destiny2_Source_Destiny2_Destiny2WeaponComponent_h_14_INCLASS_NO_PURE_DECLS \
+#define FID_Unreal_Destiny2222222_Destiny2_Source_Destiny2_Destiny2WeaponComponent_h_14_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesUDestiny2WeaponComponent(); \
 	friend struct Z_Construct_UClass_UDestiny2WeaponComponent_Statics; \
@@ -30,7 +30,7 @@ public: \
 	DECLARE_SERIALIZER(UDestiny2WeaponComponent)
 
 
-#define FID_Destiny2_Destiny2_Source_Destiny2_Destiny2WeaponComponent_h_14_ENHANCED_CONSTRUCTORS \
+#define FID_Unreal_Destiny2222222_Destiny2_Source_Destiny2_Destiny2WeaponComponent_h_14_ENHANCED_CONSTRUCTORS \
 private: \
 	/** Private move- and copy-constructors, should never be used */ \
 	UDestiny2WeaponComponent(UDestiny2WeaponComponent&&); \
@@ -42,13 +42,13 @@ public: \
 	NO_API virtual ~UDestiny2WeaponComponent();
 
 
-#define FID_Destiny2_Destiny2_Source_Destiny2_Destiny2WeaponComponent_h_11_PROLOG
-#define FID_Destiny2_Destiny2_Source_Destiny2_Destiny2WeaponComponent_h_14_GENERATED_BODY \
+#define FID_Unreal_Destiny2222222_Destiny2_Source_Destiny2_Destiny2WeaponComponent_h_11_PROLOG
+#define FID_Unreal_Destiny2222222_Destiny2_Source_Destiny2_Destiny2WeaponComponent_h_14_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FID_Destiny2_Destiny2_Source_Destiny2_Destiny2WeaponComponent_h_14_RPC_WRAPPERS_NO_PURE_DECLS \
-	FID_Destiny2_Destiny2_Source_Destiny2_Destiny2WeaponComponent_h_14_INCLASS_NO_PURE_DECLS \
-	FID_Destiny2_Destiny2_Source_Destiny2_Destiny2WeaponComponent_h_14_ENHANCED_CONSTRUCTORS \
+	FID_Unreal_Destiny2222222_Destiny2_Source_Destiny2_Destiny2WeaponComponent_h_14_RPC_WRAPPERS_NO_PURE_DECLS \
+	FID_Unreal_Destiny2222222_Destiny2_Source_Destiny2_Destiny2WeaponComponent_h_14_INCLASS_NO_PURE_DECLS \
+	FID_Unreal_Destiny2222222_Destiny2_Source_Destiny2_Destiny2WeaponComponent_h_14_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
@@ -56,7 +56,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 template<> DESTINY2_API UClass* StaticClass<class UDestiny2WeaponComponent>();
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID FID_Destiny2_Destiny2_Source_Destiny2_Destiny2WeaponComponent_h
+#define CURRENT_FILE_ID FID_Unreal_Destiny2222222_Destiny2_Source_Destiny2_Destiny2WeaponComponent_h
 
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

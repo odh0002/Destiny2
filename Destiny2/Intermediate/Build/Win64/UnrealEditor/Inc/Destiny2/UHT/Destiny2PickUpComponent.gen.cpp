@@ -250,14 +250,14 @@ UDestiny2PickUpComponent::~UDestiny2PickUpComponent() {}
 // End Class UDestiny2PickUpComponent
 
 // Begin Registration
-struct Z_CompiledInDeferFile_FID_Destiny2_Destiny2_Source_Destiny2_Destiny2PickUpComponent_h_Statics
+struct Z_CompiledInDeferFile_FID_Unreal_Destiny2222222_Destiny2_Source_Destiny2_Destiny2PickUpComponent_h_Statics
 {
 	static constexpr FClassRegisterCompiledInInfo ClassInfo[] = {
 		{ Z_Construct_UClass_UDestiny2PickUpComponent, UDestiny2PickUpComponent::StaticClass, TEXT("UDestiny2PickUpComponent"), &Z_Registration_Info_UClass_UDestiny2PickUpComponent, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(UDestiny2PickUpComponent), 3814209233U) },
 	};
 };
-static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Destiny2_Destiny2_Source_Destiny2_Destiny2PickUpComponent_h_4000082005(TEXT("/Script/Destiny2"),
-	Z_CompiledInDeferFile_FID_Destiny2_Destiny2_Source_Destiny2_Destiny2PickUpComponent_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Destiny2_Destiny2_Source_Destiny2_Destiny2PickUpComponent_h_Statics::ClassInfo),
+static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Unreal_Destiny2222222_Destiny2_Source_Destiny2_Destiny2PickUpComponent_h_4000082005(TEXT("/Script/Destiny2"),
+	Z_CompiledInDeferFile_FID_Unreal_Destiny2222222_Destiny2_Source_Destiny2_Destiny2PickUpComponent_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Unreal_Destiny2222222_Destiny2_Source_Destiny2_Destiny2PickUpComponent_h_Statics::ClassInfo),
 	nullptr, 0,
 	nullptr, 0);
 // End Registration

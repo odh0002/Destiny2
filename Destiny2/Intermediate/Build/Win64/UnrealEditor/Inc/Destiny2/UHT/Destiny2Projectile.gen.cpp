@@ -202,14 +202,14 @@ ADestiny2Projectile::~ADestiny2Projectile() {}
 // End Class ADestiny2Projectile
 
 // Begin Registration
-struct Z_CompiledInDeferFile_FID_Destiny2_Destiny2_Source_Destiny2_Destiny2Projectile_h_Statics
+struct Z_CompiledInDeferFile_FID_Unreal_Destiny2222222_Destiny2_Source_Destiny2_Destiny2Projectile_h_Statics
 {
 	static constexpr FClassRegisterCompiledInInfo ClassInfo[] = {
 		{ Z_Construct_UClass_ADestiny2Projectile, ADestiny2Projectile::StaticClass, TEXT("ADestiny2Projectile"), &Z_Registration_Info_UClass_ADestiny2Projectile, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(ADestiny2Projectile), 3420450823U) },
 	};
 };
-static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Destiny2_Destiny2_Source_Destiny2_Destiny2Projectile_h_3144369002(TEXT("/Script/Destiny2"),
-	Z_CompiledInDeferFile_FID_Destiny2_Destiny2_Source_Destiny2_Destiny2Projectile_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Destiny2_Destiny2_Source_Destiny2_Destiny2Projectile_h_Statics::ClassInfo),
+static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Unreal_Destiny2222222_Destiny2_Source_Destiny2_Destiny2Projectile_h_3144369002(TEXT("/Script/Destiny2"),
+	Z_CompiledInDeferFile_FID_Unreal_Destiny2222222_Destiny2_Source_Destiny2_Destiny2Projectile_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Unreal_Destiny2222222_Destiny2_Source_Destiny2_Destiny2Projectile_h_Statics::ClassInfo),
 	nullptr, 0,
 	nullptr, 0);
 // End Registration

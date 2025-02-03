@@ -14,7 +14,7 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #endif
 #define DESTINY2_Destiny2GameMode_generated_h
 
-#define FID_Destiny2_Destiny2_Source_Destiny2_Destiny2GameMode_h_12_INCLASS_NO_PURE_DECLS \
+#define FID_Unreal_Destiny2222222_Destiny2_Source_Destiny2_Destiny2GameMode_h_12_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesADestiny2GameMode(); \
 	friend struct Z_Construct_UClass_ADestiny2GameMode_Statics; \
@@ -23,7 +23,7 @@ public: \
 	DECLARE_SERIALIZER(ADestiny2GameMode)
 
 
-#define FID_Destiny2_Destiny2_Source_Destiny2_Destiny2GameMode_h_12_ENHANCED_CONSTRUCTORS \
+#define FID_Unreal_Destiny2222222_Destiny2_Source_Destiny2_Destiny2GameMode_h_12_ENHANCED_CONSTRUCTORS \
 private: \
 	/** Private move- and copy-constructors, should never be used */ \
 	ADestiny2GameMode(ADestiny2GameMode&&); \
@@ -35,12 +35,12 @@ public: \
 	DESTINY2_API virtual ~ADestiny2GameMode();
 
 
-#define FID_Destiny2_Destiny2_Source_Destiny2_Destiny2GameMode_h_9_PROLOG
-#define FID_Destiny2_Destiny2_Source_Destiny2_Destiny2GameMode_h_12_GENERATED_BODY \
+#define FID_Unreal_Destiny2222222_Destiny2_Source_Destiny2_Destiny2GameMode_h_9_PROLOG
+#define FID_Unreal_Destiny2222222_Destiny2_Source_Destiny2_Destiny2GameMode_h_12_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FID_Destiny2_Destiny2_Source_Destiny2_Destiny2GameMode_h_12_INCLASS_NO_PURE_DECLS \
-	FID_Destiny2_Destiny2_Source_Destiny2_Destiny2GameMode_h_12_ENHANCED_CONSTRUCTORS \
+	FID_Unreal_Destiny2222222_Destiny2_Source_Destiny2_Destiny2GameMode_h_12_INCLASS_NO_PURE_DECLS \
+	FID_Unreal_Destiny2222222_Destiny2_Source_Destiny2_Destiny2GameMode_h_12_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
@@ -48,7 +48,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 template<> DESTINY2_API UClass* StaticClass<class ADestiny2GameMode>();
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID FID_Destiny2_Destiny2_Source_Destiny2_Destiny2GameMode_h
+#define CURRENT_FILE_ID FID_Unreal_Destiny2222222_Destiny2_Source_Destiny2_Destiny2GameMode_h
 
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

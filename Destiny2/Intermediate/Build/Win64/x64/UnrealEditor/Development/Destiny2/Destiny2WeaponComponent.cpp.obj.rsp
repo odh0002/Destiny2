@@ -1,12 +1,12 @@
-"C:\Destiny2\Destiny2\Source\Destiny2\Destiny2WeaponComponent.cpp"
-/FI"C:\Destiny2\Destiny2\Intermediate\Build\Win64\x64\Destiny2Editor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h"
-/FI"C:\Destiny2\Destiny2\Intermediate\Build\Win64\x64\UnrealEditor\Development\Destiny2\Definitions.Destiny2.h"
-/Yu"C:\Destiny2\Destiny2\Intermediate\Build\Win64\x64\Destiny2Editor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h"
-/Fp"C:\Destiny2\Destiny2\Intermediate\Build\Win64\x64\Destiny2Editor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.pch"
-/Fo"C:\Destiny2\Destiny2\Intermediate\Build\Win64\x64\UnrealEditor\Development\Destiny2\Destiny2WeaponComponent.cpp.obj"
-/experimental:log "C:\Destiny2\Destiny2\Intermediate\Build\Win64\x64\UnrealEditor\Development\Destiny2\Destiny2WeaponComponent.cpp.sarif"
-/sourceDependencies "C:\Destiny2\Destiny2\Intermediate\Build\Win64\x64\UnrealEditor\Development\Destiny2\Destiny2WeaponComponent.cpp.dep.json"
-@"C:\Destiny2\Destiny2\Intermediate\Build\Win64\x64\UnrealEditor\Development\Destiny2\Destiny2.Shared.rsp"
+"C:\Unreal\Destiny2222222\Destiny2\Source\Destiny2\Destiny2WeaponComponent.cpp"
+/FI"C:\Unreal\Destiny2222222\Destiny2\Intermediate\Build\Win64\x64\Destiny2Editor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h"
+/FI"C:\Unreal\Destiny2222222\Destiny2\Intermediate\Build\Win64\x64\UnrealEditor\Development\Destiny2\Definitions.Destiny2.h"
+/Yu"C:\Unreal\Destiny2222222\Destiny2\Intermediate\Build\Win64\x64\Destiny2Editor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h"
+/Fp"C:\Unreal\Destiny2222222\Destiny2\Intermediate\Build\Win64\x64\Destiny2Editor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.pch"
+/Fo"C:\Unreal\Destiny2222222\Destiny2\Intermediate\Build\Win64\x64\UnrealEditor\Development\Destiny2\Destiny2WeaponComponent.cpp.obj"
+/experimental:log "C:\Unreal\Destiny2222222\Destiny2\Intermediate\Build\Win64\x64\UnrealEditor\Development\Destiny2\Destiny2WeaponComponent.cpp.sarif"
+/sourceDependencies "C:\Unreal\Destiny2222222\Destiny2\Intermediate\Build\Win64\x64\UnrealEditor\Development\Destiny2\Destiny2WeaponComponent.cpp.dep.json"
+@"C:\Unreal\Destiny2222222\Destiny2\Intermediate\Build\Win64\x64\UnrealEditor\Development\Destiny2\Destiny2.Shared.rsp"
 /d2ssa-cfg-question-
 /Zc:inline
 /nologo

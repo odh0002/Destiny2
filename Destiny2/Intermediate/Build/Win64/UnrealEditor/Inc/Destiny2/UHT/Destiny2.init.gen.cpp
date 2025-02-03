@@ -21,7 +21,7 @@ void EmptyLinkFunctionForGeneratedCodeDestiny2_init() {}
 				SingletonFuncArray,
 				UE_ARRAY_COUNT(SingletonFuncArray),
 				PKG_CompiledIn | 0x00000000,
-				0x2DAB24D0,
+				0x5B78B415,
 				0x00D539A2,
 				METADATA_PARAMS(0, nullptr)
 			};
@@ -29,5 +29,5 @@ void EmptyLinkFunctionForGeneratedCodeDestiny2_init() {}
 		}
 		return Z_Registration_Info_UPackage__Script_Destiny2.OuterSingleton;
 	}
-	static FRegisterCompiledInInfo Z_CompiledInDeferPackage_UPackage__Script_Destiny2(Z_Construct_UPackage__Script_Destiny2, TEXT("/Script/Destiny2"), Z_Registration_Info_UPackage__Script_Destiny2, CONSTRUCT_RELOAD_VERSION_INFO(FPackageReloadVersionInfo, 0x2DAB24D0, 0x00D539A2));
+	static FRegisterCompiledInInfo Z_CompiledInDeferPackage_UPackage__Script_Destiny2(Z_Construct_UPackage__Script_Destiny2, TEXT("/Script/Destiny2"), Z_Registration_Info_UPackage__Script_Destiny2, CONSTRUCT_RELOAD_VERSION_INFO(FPackageReloadVersionInfo, 0x5B78B415, 0x00D539A2));
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
