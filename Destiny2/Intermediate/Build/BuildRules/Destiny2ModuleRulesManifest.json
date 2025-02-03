@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Destiny2\\Destiny2\\Source\\Destiny2\\Destiny2.Build.cs",
+		"C:\\Destiny2\\Destiny2\\Source\\Destiny2.Target.cs",
+		"C:\\Destiny2\\Destiny2\\Source\\Destiny2Editor.Target.cs"
+	],
+	"EngineVersion": "5.5.1"
+}

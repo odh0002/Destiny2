@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\destiny2\\destiny2\\intermediate\\build\\win64\\unrealeditor\\inc\\destiny2\\uht\\destiny2.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\destiny2\\destiny2\\intermediate\\build\\win64\\x64\\destiny2editor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\destiny2\\destiny2\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\destiny2\\definitions.destiny2.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
